@@ -21,7 +21,7 @@ Each project lives inside `/projects/<project-name>/` with:
 
 ### 1. Release Notes Generator (Claude Code)
 🔗 https://claude.ai/public/artifacts/dfed4f67-e025-4378-aeeb-baab26855b9c  
-Folder: `projects/release-notes-generator/`
+
 
 ---
 
