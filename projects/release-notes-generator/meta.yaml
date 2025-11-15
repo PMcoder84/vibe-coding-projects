@@ -1,0 +1,9 @@
+title: "Release Notes Generator"
+slug: "release-notes-generator"
+description: "Generate user-friendly release notes from PRs/commits using Claude Code."
+tool: "Claude Code"
+live_link: "https://claude.ai/public/artifacts/dfed4f67-e025-4378-aeeb-baab26855b9c"
+created_at: "2025-11-15"
+tags: ["release-notes", "productivity", "prototype"]
+thumbnail: "assets/release-notes-1.png"
+visibility: "public"
