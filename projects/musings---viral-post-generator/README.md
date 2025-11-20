@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Musings — Viral Post Generator (Google AI Studio)
 
 **What is this?**  
@@ -26,6 +22,7 @@ This makes the generated posts ready to copy-paste into LinkedIn with minimal ed
 
 👉 **https://musings-viral-post-generator-62039418430.us-west1.run.app/**
 
+Yes, I know the URL is longer than a LinkedIn rant. Cloud Run did this to me.
 Cloud Run looked at my app name and said: “Let me make your URL… unnecessarily cinematic.”
 
 
