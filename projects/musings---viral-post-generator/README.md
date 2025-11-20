@@ -21,6 +21,13 @@ The app expects a short draft input and produces **3 LinkedIn-style posts** opti
 This makes the generated posts ready to copy-paste into LinkedIn with minimal editing.
 
 
+## 🚀 Live Demo (Public URL)
+
+
+👉 **https://musings-viral-post-generator-62039418430.us-west1.run.app/**
+
+Cloud Run looked at my app name and said: “Let me make your URL… unnecessarily cinematic.”
+
 
 ## Run Locally
 
