@@ -22,6 +22,8 @@ Each project lives inside `/projects/<project-name>/` with:
 ### 1. Release Notes Generator (Claude Code)
 🔗 https://claude.ai/public/artifacts/dfed4f67-e025-4378-aeeb-baab26855b9c  
 
+### 2. Musings - Viral  (Google AI Studio)
+🔗 https://musings-viral-post-generator-62039418430.us-west1.run.app/
 
 ---
 
